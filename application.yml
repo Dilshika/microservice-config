@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/Cafe?createDatabaseIfNotExist=true
+    url: jdbc:mysql://localhost:3306/cafe?createDatabaseIfNotExist=true
     username: root
-    password: rootFor1917
+    password: rootFor1917@
     driver-class-name: com.mysql.cj.jdbc.Driver
     
   jpa:
